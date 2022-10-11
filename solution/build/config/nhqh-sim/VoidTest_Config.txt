@@ -1,0 +1,14 @@
+OptionKindListSize=4	
+OptionId0=IO	
+UnderlyingId0=IF	
+ExchangeId0=CFFEX
+OptionId1=m	
+UnderlyingId1=m	
+ExchangeId1=DCE
+OptionId2=cu
+UnderlyingId2=cu
+ExchangeId2=SHFE
+OptionId3=SR
+UnderlyingId3=SR
+ExchangeId3=CZCE
+

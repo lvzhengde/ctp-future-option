@@ -1,0 +1,17 @@
+OptCntCode=f	
+UnderCntCode=f	
+UnderMdOnly=0	
+UnderlyingAssetType=0	
+YearMonthListSize=0	
+SegTimeListSize=5	
+SegBeginTime0=90000	
+SegEndTime0=101500	
+SegBeginTime1=103000	
+SegEndTime1=113000	
+SegBeginTime2=133000	
+SegEndTime2=150000	
+SegBeginTime3=210000	
+SegEndTime3=240000	
+SegBeginTime4=000000	
+SegEndTime4=10000	
+

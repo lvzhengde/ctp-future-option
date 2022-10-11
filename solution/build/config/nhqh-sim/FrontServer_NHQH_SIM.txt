@@ -1,0 +1,4 @@
+BrokerDesc=期货期权模拟盘	
+IsTrueTrade=0	
+TradeFrontSize=1	
+MdFrontSize=1	
